@@ -1,21 +1,5 @@
 # Laboration 1
-## LÄS DETTA FÖRST
-**Deadline**: 2024/04/03 (Onsdag 3e april 23:59)
-
-**Deadline Komplettering 1**: 2024/04/10 (Onsdag 10e april 23:59)
-
-**Deadline Komplettering 2**: 2024/04/15 (Måndag 15e april 23:59)
-
-**Betyg**: U, G, VG - Du kan inte få VG på kompletteringar. VG fås genom att du genomfört samtliga uppgifter, samt båda VG-delarna på ett självsäkert sätt med välformaterad, pythonic kod.
-
-
-## Inlämning
-Ta bort alla onödiga filer, din kod bör vara på den huvudsakliga branchen "main" eller "master".
-Se till att du körde git clone på din EGEN repository för labben.
-Feedback ges via en speciell branch som skapas automatiskt, mer information om detta får du av utbildaren.
-
-## Regler
-Laborationen är individuell, och du ska inte använda AI-assisterad hjälp för att lösa uppgiften. Öva istället på att googla dig fram till svaret. Chattbottar / LLM-modeller likt chatGPT får endast användas att beskriva enskilda koncept. Att däremot skicka in en hel uppgift och be om en lösning är strikt förbjudet - detta hjälper dig inte träna på egen problemlösning, eftersom du deligerar tänkandet till någon annan. Jag märker väldigt enkelt när svar är AI-genererade!
+# Detta är en för detta enklare laboration som ofta har till klasser som ej är fokuserade på programmering. Ni kan istället använda den för att öva. Vi går sedan igenom svaren på lektionstid.
 
 ## Beskrivning:
 Du ska svara på frågorna. Du kommer antingen behöva svara med text, kod eller båda samtidigt. 
