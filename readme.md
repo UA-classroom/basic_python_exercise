@@ -1,33 +1,33 @@
-# Laboration 1
-# Detta är en för detta enklare laboration som ofta har till klasser som ej är fokuserade på programmering. Ni kan istället använda den för att öva. Vi går sedan igenom svaren på lektionstid.
+# Basic Python Exercise
+# This is a simpler lab assignment often given to classes that are not focused on programming. You can use it instead for practice. We will then go through the answers during class.
 
-## Beskrivning:
-Du ska svara på frågorna. Du kommer antingen behöva svara med text, kod eller båda samtidigt. 
-Du kan utnyttja kommentarer i python för att skriva text med # (hashtag-symbolen)
-Eller så kan du skapa ett markdown-block och sedan skriva text.
-För att sedan lägga till kod kan du skriva 
+## Description:
+You should answer the questions. You will either need to respond with text, code, or both. 
+You can use comments in Python to write text with the # (hashtag symbol).
+Or, you can create a markdown block and then write text.
+To add code, you can write:
 
 \```python 
 
-Kod här inne
+Code goes here
 
 \```
 
-# Exempelfråga & Exempelsvar:
+# Example Question & Answer:
 
-Vad är en lista, och varför är den viktig? Svara med text och kod.
+What is a list, and why is it important? Answer with text and code.
 
-Svar:
-Listor är användbara eftersom vi kan gruppera data på ett logiskt sätt. Utan listor hade vi behövt spara allt i enskilda variabler, vilket inte är skalbart för en applikation. Vad händer om vi exempelvis har 100000 studenter och alla behöver en variabel?
+Answer:
+Lists are useful because we can group data in a logical way. Without lists, we would need to save everything in individual variables, which is not scalable for an application. For example, what happens if we have 100,000 students, and each needs a variable?
 
-```python
-# Idiotiskt:
+\```python
+# Inefficient:
 student_1 = "Tobias"
 student_2 = "Alfred"
 student_3 = "Elina"
 student_4 = "Jessica"
 
-# Bra
+# Better
 students = ["Tobias", "Alfred", "Elina", "Jessica"]
 student_1 = students[0]
-```
+\```
